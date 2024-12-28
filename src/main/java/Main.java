@@ -12,4 +12,4 @@ public class Main {
         b = scanner.nextInt();
         c = a + b;
     }
-}
+} 
