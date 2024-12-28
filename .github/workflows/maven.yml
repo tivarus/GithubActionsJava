@@ -1,6 +1,6 @@
 # Имя workflow
 name: My workflow
-
+ 
 # Запуск на определенных тригерах и ветках
 on:
   push:
